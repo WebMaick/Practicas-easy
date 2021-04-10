@@ -4,4 +4,4 @@
 ![Practica ejercicio](/img/website.png)
 
 2. Sitio Web con Animacion solo html Css
-![Practica ejercicio](/img/website-animado)
+![Practica ejercicio](/img/website-animado.png)
